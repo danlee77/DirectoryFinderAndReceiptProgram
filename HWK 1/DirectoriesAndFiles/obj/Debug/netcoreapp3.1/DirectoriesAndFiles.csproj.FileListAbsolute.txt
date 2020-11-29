@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.exe
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.deps.json
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.runtimeconfig.json
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.dll
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\bin\Debug\netcoreapp3.1\DirectoriesAndFiles.pdb
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.dll
+C:\Users\Daniel\Documents\Github 3033\3033-homework-1-danlee77\HWK 1\DirectoriesAndFiles\obj\Debug\netcoreapp3.1\DirectoriesAndFiles.pdb
